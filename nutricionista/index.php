@@ -11,39 +11,36 @@
 
 <body>
 
-   
     <!-- Main Content -->
     <div class="content p-4">
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
-
-            <h1>Nutricionista</h1>
-
+                
+                <h1>Nutricionista</h1>
+                
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <i class='bx bx-menu'></i>
-                </button>
-                <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Search..." aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit"><i class='bx bx-search'></i></button>
-                </form>
-                <div class="d-flex">
-                    <a href="#" class="nav-link">
-                        <i class='bx bx-bell'></i>
-                        <span class="badge bg-danger">12</span>
-                    </a>
-                    <a href="#" class="nav-link">
-                        <img src="../img/iff.jpg"" width="40">
-                    </a>
-                </div>
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class='bx bx-menu'></i>
+            </button>
+            <form class="d-flex">
+                <input class="form-control me-2" type="search" placeholder="Procurar..." aria-label="Prcurar">
+                <button class="btn btn-outline-success" type="submit"><i class='bx bx-search'></i></button>
+            </form>
+            <div class="d-flex">
+                
+                <a href="#" class="nav-link">
+                    <img src="img/iff2.jpg" width="170px" height="50px">
+                </a>
             </div>
-        </nav>
-
-        <!-- End of Navbar -->
-
-        <main>
-           
+        </div>
+    </nav>
+    
+    <!-- End of Navbar -->
+    
+    <?php include "header.php" ?>
+    <main>
+        
 
            
 

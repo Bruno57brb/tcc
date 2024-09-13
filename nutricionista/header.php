@@ -3,23 +3,18 @@
  <!-- Sidebar -->
  <div class="d-flex flex-column flex-shrink-0 p-3 bg-light" style="width: 280px;">
         <a href="#" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-decoration-none">
-            <i class='bx bx-code-alt fs-2'></i>
-            <span class="fs-4 ms-2"><span>Asmr</span>Prog</span>
+            <span class="fs-4 ms-2"><span>Assis</span>tencia</span>
         </a>
         <hr>
         <ul class="nav nav-pills flex-column mb-auto">
             <li class="nav-item">
-                <a href="#" class="nav-link link-dark">
+                <a href="#" class="nav-link link-dark active">
                     <i class='bx bxs-dashboard'></i> Dashboard
                 </a>
             </li>
+           
             <li>
-                <a href="#" class="nav-link link-dark">
-                    <i class='bx bx-store-alt'></i> Shop
-                </a>
-            </li>
-            <li>
-                <a href="#" class="nav-link link-dark active">
+                <a href="#" class="nav-link link-dark ">
                     <i class='bx bx-analyse'></i> Analytics
                 </a>
             </li>
