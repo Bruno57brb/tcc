@@ -17,7 +17,7 @@
   <header></header>
 
   <div class="iff">
-    <img src="img/iff.jpg" alt="">
+    <img src="img/iff.jpg" alt="logo">
   </div>
 
   <form action="login.php" method="POST">
